@@ -1,0 +1,3 @@
+- name: sp-fetch
+  package: https://github.com/tonkreabry/plugins/raw/main/sp-fetch.pkg
+  version: 1
