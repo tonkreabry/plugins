@@ -1,33 +1,33 @@
 - name: sp-随浏网页
-  package: https://github.com/tonkreabry/plugins/raw/feature/yLkSLlvSRiVvSpHP.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/yLkWLlvSRiVvSpHP.pkg
   version: 5
 - name: sp-执行脚本
-  package: https://github.com/tonkreabry/plugins/raw/feature/jaMazDHxsPlvhWcj.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/jaMazDHxsPlvhWcj.pkg
   version: 2
 - name: sp-重启网络接口
-  package: https://github.com/tonkreabry/plugins/raw/feature/sp-重启网络接口.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/sp-重启网络接口.pkg
   version: 1
 - name: sp-网盘管理
-  package: https://github.com/tonkreabry/plugins/raw/feature/RygrMlNzLgluyljB.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/RygrMlNzLgluyljB.pkg
   version: 12
 - name: sp-在线翻译
-  package: https://github.com/tonkreabry/plugins/raw/feature/sp-在线翻译.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/sp-在线翻译.pkg
   version: 1
 - name: sp-收发签到
-  package: https://github.com/tonkreabry/plugins/raw/feature/sp-收发签到.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/sp-收发签到.pkg
   version: 2
 - name: sp-火云隧道
-  package: https://github.com/tonkreabry/plugins/raw/feature/vUBRelEWGLMCeOii.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/vUBRelEWGLMCeOii.pkg
   version: 3
 - name: sp-爬取节点
-  package: https://github.com/tonkreabry/plugins/raw/feature/DeZGFKEDlMhLqqrp.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/DeZGFKEDlMhLqqrp.pkg
   version: 4
 - name: sp-管理Deno
-  package: https://github.com/tonkreabry/plugins/raw/feature/BqilcvGZVvMMVEdx.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/BqilcvGZVvMMVEdx.pkg
   version: 2
 - name: sp-命令操控
-  package: https://github.com/tonkreabry/plugins/raw/feature/QhnlOnbFMYqybgni.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/QhnlOnbFMYqybgni.pkg
   version: 3
 - name: sp-YTB下载
-  package: https://github.com/tonkreabry/plugins/raw/feature/sUSIasPwZpZLJQSQ.pkg
+  package: https://github.com/tonkreabry/plugins/raw/refs/heads/featre/sUSIasPwZpZLJQSQ.pkg
   version: 1
